@@ -40,7 +40,6 @@ Since this addon is limited to instanced PvE only, both of these concerns do not
 Refer to the official [Third Party Program Policy](https://help.guildwars2.com/hc/en-us/articles/360013625034-Policy-Third-Party-Programs) and decide for yourself whether this addon goes too far.  
 **If you believe this addon should be removed, we'd be happy to hear your reasons as the perception of the community arguably matters most.**  
 We are constantly re-evaluating any implementation as the consensus of the community shifts and new statements or requests are made by ArenaNet officials.  
-As a matter of fact, you can achieve similar load times by buying very good hardware, therefore giving lower-end machines the ability to be "on par" does not constitute an advantage in our eyes.
 
 # To ArenaNet
 ## Please direct any concerns or takedown requests to [contact@raidcore.gg](mailto:contact@raidcore.gg). Any ArenaNet employee who wants to review the implementation may also contact us at the aforementioned email address to gain access.
