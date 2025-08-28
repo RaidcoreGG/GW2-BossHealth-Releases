@@ -19,7 +19,6 @@
 
 # GW2-BossHealth-Releases
 Public repository for releases of the boss health addon.
-The actual source code is kept private in compliance with directives by ArenaNet for implementations based on reverse engineering.
 
 ## Installation
 Install via the [Nexus](https://raidcore.gg/Nexus) Addon Library or download the latest `bosshealth.dll` from the [Releases](https://github.com/RaidcoreGG/GW2-BossHealth-Releases/releases) and place in `<Guild Wars 2>/addons`.
